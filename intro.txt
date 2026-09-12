@@ -1,0 +1,2 @@
+"My name is Jenish Patel."
+"I am a BSC IT student learning Git and GitHub."
